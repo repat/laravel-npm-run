@@ -1,0 +1,20 @@
+{
+    "name": "repat/laravel-npm-run",
+    "description": "npm run Laravel Jobs",
+    "keywords": ["laravel", "npm", "dev", "prod", "job"],
+    "homepage": "https://repat.de",
+    "license": "MIT",
+    "version" : "0.1",
+    "authors": [
+        {"name": "repat", "email": "repat@repat.de"}
+    ],
+    "require": {
+        "symfony/process": "^4.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Repat\\": "src/repat"
+        }
+    },
+    "minimum-stability" : "dev"
+}
