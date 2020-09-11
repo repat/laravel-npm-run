@@ -28,7 +28,7 @@ $this->dispatch($job); // e.g. in Controller
 * MIT, see [LICENSE](https://github.com/repat/laravel-npm-run/blob/master/LICENSE)
 
 ## Version
-* Version 0.1
+* Version 0.2
 
 ## Contact
 #### repat
